@@ -1,4 +1,4 @@
-#**LaPeau**
+"#La Peau"
 
 Main feature:
 - Take image from device's camera, then send it back-end to detect disease in skin.
