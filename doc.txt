@@ -1,0 +1,3 @@
+backend: server's code, using Flask and Sqlite3
+front: mobile's code, run on IOS, using React-native
+EfficientNetB7.ipynb: model's code
